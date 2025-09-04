@@ -1,0 +1,12 @@
+{
+  "name": "arcana-signal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node signaling-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
